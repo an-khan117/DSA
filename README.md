@@ -1,2 +1,2 @@
 # DSA
-The Basic and fundamental of DATA STURUCTURE with c &amp; c++
+The  Fundamental of DATA STURUCTURE and DATA STURTURE and Algorithms with c &amp; c++ 📈💻🎓📔
